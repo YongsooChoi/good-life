@@ -11,7 +11,7 @@
     "prettier": "^3.2.5",
     "turbo": "^2.0.9"
   },
-  "name": "with-vite",
+  "name": "good-life",
   "packageManager": "yarn@1.22.21",
   "workspaces": [
     "apps/*",
