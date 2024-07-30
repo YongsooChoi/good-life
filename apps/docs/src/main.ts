@@ -1,8 +1,8 @@
 import "./style.css";
 
-import { Counter } from "@repo/ui/counter";
-import { Header } from "@repo/ui/header";
-import { setupCounter } from "@repo/ui/setup-counter";
+import { Counter } from "@ysc/ui/counter";
+import { Header } from "@ysc/ui/header";
+import { setupCounter } from "@ysc/ui/setup-counter";
 
 import typescriptLogo from "/typescript.svg";
 

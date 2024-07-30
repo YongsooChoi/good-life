@@ -2,6 +2,6 @@
   "compilerOptions": {
     "jsx": "react"
   },
-  "extends": "@repo/typescript-config/vite.json",
+  "extends": "@ysc/typescript-config/vite.json",
   "include": ["src"]
 }
