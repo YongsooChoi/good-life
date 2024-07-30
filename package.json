@@ -4,7 +4,7 @@
     "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint -- --fix",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,scss,css,md}\""
   },
   "devDependencies": {
     "eslint": "^8.57.0",
